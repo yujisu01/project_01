@@ -11,6 +11,7 @@ TOMCAT 서버 추가(TOMCAT 9, 10) <br></br>
 추가된 서버에 JAVA PROJECT 를 Add<br></br>
 index.jsp 추가하여 페이지 표시 유무 확인<br></br>
 web.xml 의 dispatcherServlet 설정 및 contextConfigureLocation 설정<br></br>
+:heavy_check_mark: home.jsp의 경로를 찾지못하는 문제발생. Dynamic Project 하나더 생성하고 다시 진행함 (여기부터 다시)
 Controller - service - impl  형태의 백엔드 프로그램 작성<br></br>
 해당 주소에 대해 표시여부 확인<br></br>
 MSSQL 설치 <br></br>
